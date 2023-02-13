@@ -18,5 +18,6 @@
         {
             _cells[index] = color;
         }
+
     }
 }
